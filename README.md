@@ -1,2 +1,2 @@
-# actor-example
+# example.actor-example
 Actor Test
